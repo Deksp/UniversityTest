@@ -1,0 +1,15 @@
+{
+    "name": "@deksp/university-test",
+    "version": "1.0.0",
+    "description": "University test project as xPack",
+    "homepage": "https://github.com/Deksp/UniversityTest",
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/Deksp/UniversityTest.git"
+    },
+    "license": "MIT",
+    "xpack": {
+      "type": "source"
+    }
+  }
+  
